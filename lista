@@ -2,15 +2,17 @@
 
 
 
-#EXTINF:-1  group-title="Costa Rica", Repretel canal 2 | SD | Costa Rica
+#EXTINF:-1  group-title="Costa Rica", Canal 2 Repretel | SD | Costa Rica
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal2_360.m3u8
 
-#EXTINF:-1  group-title="Costa Rica", Repretel canal 4 | SD | Costa Rica
+#EXTINF:-1  group-title="Costa Rica", Canal 4 Repretel | SD | Costa Rica
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal4_360.m3u8
 
-#EXTINF:-1  group-title="Costa Rica", Repretel canal 6 | HD | Costa Rica
+#EXTINF:-1  group-title="Costa Rica",  Canal 6  Repretel| HD | Costa Rica
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal6_360.m3u8
 
+#EXTINF:-1  group-title="Costa Rica", Canal 7 Teletica | HD | Costa Rica
+https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5zXMnJUyzxNKq55kDqBQMbXQYq2mICa0ScGYbnzb9Agd)/dm/3/x29e3wg/d/live-2.m3u8#cell=lnyc
 
 #EXTINF:-1  group-title="Costa Rica", Canal 8 Multimedios | HD | Costa Rica
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
