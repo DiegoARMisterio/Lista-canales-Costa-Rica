@@ -1,0 +1,16 @@
+#EXTM3U
+
+
+
+#EXTINF:-1  group-title="Costa Rica", Repretel canal 2 | SD | Costa Rica
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal2_360.m3u8
+
+#EXTINF:-1  group-title="Costa Rica", Repretel canal 4 | SD | Costa Rica
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal4_360.m3u8
+
+#EXTINF:-1  group-title="Costa Rica", Repretel canal 6 | HD | Costa Rica
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal6_360.m3u8
+
+
+#EXTINF:-1  group-title="Costa Rica", Repretel canal 11 | SD | Costa Rica
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_360.m3u8	
