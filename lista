@@ -22,10 +22,7 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_360.m3u8	
 
 #EXTINF:-1 group-title="Costa Rica", Canal 13-1 | HD | Costa Rica
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZWSzM6W8jm6bBDhYqSdtpxdxAPrxYmWMCRi1nZCy7qjt)/dm/3/x7vh8g3/d/live-3.m3u8#cell=lnyc
-
-#EXTINF:-1 group-title="Costa Rica", Canal 13-2 | HD | Costa Rica
-https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zemb-_KDb64c08C-pWmYst8FCtBwGkPOPUMYx7HDywEy)/dm/3/x7vh8g3/d/live-3.m3u8#cell=lnyc
+https://www.dailymotion.com/embed/video/x7vh8g3?autoplay=0
 
 #EXTINF:-1  group-title="Costa Rica", Canal 14 TV Sur | HD | Costa Rica
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/chunklist_w1217672925.m3u8
@@ -71,3 +68,6 @@ https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1  group-title="Costa Rica", Extrema TV | HD | Costa Rica
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w1753153515.m3u8
+
+#EXTINF:-1  group-title="Costa Rica", Soy plancha TV | HD | Costa Rica
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
