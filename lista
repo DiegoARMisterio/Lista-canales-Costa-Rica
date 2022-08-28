@@ -39,7 +39,7 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w212092022.m3u8
 #EXTINF:-1  group-title="Costa Rica", Vintage Music | SD | Costa Rica
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title="Costa Rica", Trivisión 36 | HD | Costa Rica
+#EXTINF:-1  group-title="Costa Rica", Canal 36 Trivisión | HD | Costa Rica
 https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-1500/chunklist.m3u8?DVR
 
 #EXTINF:-1  group-title="Costa Rica", Canal 38 | HD | Costa Rica
@@ -65,6 +65,9 @@ https://cloudvideo.servers10.com:8081/8248/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  group-title="Costa Rica", 88 Stereo | HD | Costa Rica
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
+
+#EXTINF:-1  group-title="Costa Rica", Colosal TV | HD | Costa Rica
+https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1  group-title="Costa Rica", Extrema TV | HD | Costa Rica
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w1753153515.m3u8
