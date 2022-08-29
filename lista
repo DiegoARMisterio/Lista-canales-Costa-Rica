@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1  group-title="Costa Rica", Canal 1 | HD | Costa Rica
+#EXTINF:-1 tvg-logo= "https://scontent.fsjo6-1.fna.fbcdn.net/v/t39.30808-6/274183640_4614288702033438_8609258114083548526_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Zqho1NKtGtQAX914L6T&_nc_ht=scontent.fsjo6-1.fna&oh=00_AT9Qpov1ifQvnzkGhw7xkWixvCZq6JhqqDPXIBmGtTXQOQ&oe=63119AB1" group-title="Costa Rica", Canal 1 | HD | Costa Rica
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png" group-title="Costa Rica", Canal 2 Repretel | SD | Costa Rica
