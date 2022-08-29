@@ -21,7 +21,7 @@ https://stream-04.nyc.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xjsvNTC5LMLlXLR_6h
 #EXTINF:-1  group-title="Costa Rica", Canal 7.3 Teletica | HD | Costa Rica
 http://51.161.130.197/live/malotv/gratis/125905.m3u8?token=Q0FYAkZRGwoVUlJbVwcABQBUBlMNAVFWBgFVAFNTBlReUwQHBQAJBgITGBsVR0ZVAw48W1EXXwQAAFhTVx0QF0sGQjxcXRsKFQADCVIHAwFAT0FGXFgAFwgFTUESWFZAAkECUQQLDxIbE1FBElZGXgMPPFZQQwxWVxdbDRddXk4aDF48UVxUUVlVFgNEAxYcQAoQQhcPC0BeWU1BAFhGEFkXVUEPGwgEAAIWFURQW0UMFxFLFw9HdmAXTUEHSUYHVhBZDFsbAxJaAkEBRB8WWRE8EVdGQRdQU1gEEUALEFMaTxIOVEFmU1hfWlwFR11fDBBBCBcFRxkQWA4NC0VdEGcTWQcXAxsCBgYCDERO
 
-#EXTINF:-1  group-title="Costa Rica", Canal 8 Multimedios | HD | Costa Rica
+#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/670px-Teletica_Logo.png" group-title="Costa Rica", Canal 8 Multimedios | HD | Costa Rica
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 #EXTINF:-1  group-title="Costa Rica", Repretel Canal 11 | SD | Costa Rica
