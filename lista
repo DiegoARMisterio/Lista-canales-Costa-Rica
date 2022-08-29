@@ -3,13 +3,13 @@
 #EXTINF:-1  group-title="Costa Rica", Canal 1 | HD | Costa Rica
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title="Costa Rica", Canal 2 Repretel | SD | Costa Rica
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png" group-title="Costa Rica", Canal 2 Repretel | SD | Costa Rica
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal2_360.m3u8
 
-#EXTINF:-1  group-title="Costa Rica", Canal 4 Repretel | SD | Costa Rica
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/240px-Repretel_4_logo.png" group-title="Costa Rica", Canal 4 Repretel | SD | Costa Rica
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal4_360.m3u8
 
-#EXTINF:-1  group-title="Costa Rica",  Canal 6  Repretel | HD | Costa Rica
+#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/240px-Repretel_6_logo.png" group-title="Costa Rica",  Canal 6  Repretel | HD | Costa Rica
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal6_360.m3u8
 
 #EXTINF:-1  group-title="Costa Rica", Canal 7.1 Teletica | HD | Costa Rica
@@ -24,7 +24,7 @@ http://51.161.130.197/live/malotv/gratis/125905.m3u8?token=Q0FYAkZRGwoVUlJbVwcAB
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Canal_8_Costa_Rica.svg/revision/latest?cb=20211002192232&path-prefix=es" group-title="Costa Rica", Canal 8 Multimedios | HD | Costa Rica
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
-#EXTINF:-1  group-title="Costa Rica", Repretel Canal 11 | SD | Costa Rica
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/240px-Repretel_11_logo.png" group-title="Costa Rica", Repretel Canal 11 | SD | Costa Rica
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_360.m3u8	
 
 #EXTINF:-1 group-title="Costa Rica", Canal 13.1 | HD | Costa Rica
@@ -33,16 +33,16 @@ https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZWSzM6W8jm6bBDhYqS
 #EXTINF:-1 group-title="Costa Rica", Canal 13.2 | HD | Costa Rica
 https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zemb-_KDb64c08C-pWmYst8FCtBwGkPOPUMYx7HDywEy)/dm/3/x7vh8g3/d/live-3.m3u8#cell=lnyc
 
-#EXTINF:-1 group-title="Costa Rica", Canal 13.3 | HD | Costa Rica
+#EXTINF:-1 tvg-logo= "https://observador.cr/wp-content/uploads/2022/07/Logo-nuevo-canal-13-300x271.png" group-title="Costa Rica", Canal 13.3 | HD | Costa Rica
 https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZUjbWalR7gX72OHJTrTFSKs34XujuLMCx1s--E_YEIUQ)/dm/3/x7vh8g3/d/live-2.m3u8#cell=lnyc
 
-#EXTINF:-1  group-title="Costa Rica", Canal 14 TV Sur | HD | Costa Rica
+#EXTINF:-1 tvg-logo= "https://www.tvsur.co.cr/wp-content/uploads/2020/05/tvsur-logo.png" group-title="Costa Rica", Canal 14 TV Sur | HD | Costa Rica
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/chunklist_w1217672925.m3u8
 
-#EXTINF:-1  group-title="Costa Rica", Canal 15 UCR | HD | Costa Rica
+#EXTINF:-1 tvg-logo= "https://dr56wvhu2c8zo.cloudfront.net/universidaddecostarica/assets/4f87ad59-83c6-40fe-a93b-e36591ec8c88.png" group-title="Costa Rica", Canal 15 UCR | HD | Costa Rica
 http://163.178.170.127:1935/quinceucr/quinceucr/chunklist_w1447875866.m3u8
 
-#EXTINF:-1  group-title="Costa Rica", VM Latino | SD | Costa Rica
+#EXTINF:-1 tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="Costa Rica", VM Latino | SD | Costa Rica
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w212092022.m3u8
 
 #EXTINF:-1  group-title="Costa Rica", Vintage Music | SD | Costa Rica
