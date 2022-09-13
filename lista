@@ -92,3 +92,5 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="Internacional", RT News | HD | Internacional
 https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 
+#EXTINF:-1  group-title="Internacional", Noticias 24H | HD | Internacional
+https://rtvelivestream.akamaized.net/segments/24h/24h_main_720.m3u8
