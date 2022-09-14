@@ -80,17 +80,23 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 #EXTINF:0 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="Internacional", Actualidad RT | HD | Internacional
 https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
 
-#EXTINF:0 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png" group-title="Internacional", Euronews | HD | Internacional
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/320px-Deutsche_Welle_symbol_2012.svg.png" group-title="Internacional", DW Español | HD | Internacional
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/320px-Deutsche_Welle_symbol_2012.svg.png" group-title="Internacional", DW English | HD | Internacional
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
+#EXTINF:0 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png" group-title="Internacional", Euronews | HD | Internacional
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="Internacional", France 24 Español | HD | Internacional
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Espanol/live
+
+#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="Internacional", France 24 Inglés| HD | Internacional
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
+
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="Internacional", RT News | HD | Internacional
 https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 
-#EXTINF:-1  group-title="Internacional", Noticias 24H | HD | Internacional
+#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="Internacional", Noticias 24H | HD | Internacional
 https://rtvelivestream.akamaized.net/segments/24h/24h_main_720.m3u8
