@@ -29,6 +29,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 #EXTINF:-1 tvg-logo= "https://www.tvsur.co.cr/wp-content/uploads/2020/05/tvsur-logo.png" group-title="Costa Rica", Canal 14 TV Sur | HD | Costa Rica
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/chunklist_w1217672925.m3u8
 
+#EXTINF:-1 tvg-logo= "https://www.tvn14.com/wp-content/uploads/2021/02/TVN-HD_LOGO_COLOR-SIN-FONDO.png" group-title="Costa Rica", TVN 14 | HD | Costa Rica
+https://stream.tvn14.com/TVN/CH14.stream_720p/chunklist_w167988177.m3u8
+
 #EXTINF:-1 tvg-logo= "https://static.wikia.nocookie.net/logopedia/images/5/5a/Canal_15_UCR_Logo_%282021%29.png/revision/latest/scale-to-width-down/180?cb=20210701151517" group-title="Costa Rica", Canal 15 UCR | HD | Costa Rica
 http://163.178.170.127:1935/quinceucr/quinceucr/chunklist_w1447875866.m3u8
 
