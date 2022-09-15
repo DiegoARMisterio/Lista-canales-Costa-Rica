@@ -104,8 +104,9 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="Internacional", Noticias 24H | HD
 https://rtvelivestream.akamaized.net/segments/24h/24h_main_720.m3u8
 
-#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title= "Colombia", Caracol| HD
+#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title= "Colombia", Caracol  HD
 https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream/574463697b9817cf0886fc17/publish/media_2000.m3u8?aid=574462d1cab0f4d50866f001&uid=XFWvEkcmM9SUmDH4o6oeV02TKLiRHYh7&sid=Vye285uq27186cqg3wSDuNBm1DD0dwmQ&pid=dRmU0xFCwC5O8pyhfZ1YTAyHK3wszY2h&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-zs14.cdn.mdstrm.com&ote=1663304929876&ot=1tW28Y6KZzPnvY0CuNLIzQ&proto=https&pz=us
+
 #EXTINF:-1 tvg-logo= "https://html.canalrcn.com/CanalRCN/react/rediseno-nl/widget/img/logo/logo-canal-2021.svg" group-title="Colombia", Canal RCN | HD
 https://stream-01.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZcrpaSqVq6g_1XZ5T9Yg1vcrukbVWjnrMX0CXg17CvZT)/dm/3/x7vyv0z/s/live-3.m3u8#cell=lsv4
 
