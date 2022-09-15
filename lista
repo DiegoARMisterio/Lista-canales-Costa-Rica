@@ -104,8 +104,8 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="Internacional", Noticias 24H | HD
 https://rtvelivestream.akamaized.net/segments/24h/24h_main_720.m3u8
 
-#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title= "Colombia", Caracol  HD
-http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title= "Panáma", Telemetro  HD
+https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-dai/9117f0590fc44e748830d7f17a172c9a/manifest/f624fec49dadc88894ebeff1d974eab019af7757/5d88dd2229b0890723df2165/9e84185a-174a-4af2-8739-16c498046472/3.m3u8?aid=5d409041e10de808a34fce18&uid=XFWvEkcmM9SUmDH4o6oeV02TKLiRHYh7&sid=Vye285uq27186cqg3wSDuNBm1DD0dwmQ&pid=gQnwVZvLukXVUQADn1iMSdPUrMSmOtkt&ref=https%3A%2F%2Fwww.telemetro.com%2F&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1663306619927&ot=Xqy2qz4OaQ4LAutiYOuNeA&proto=https&pz=us
 
 #EXTINF:-1 tvg-logo= "https://html.canalrcn.com/CanalRCN/react/rediseno-nl/widget/img/logo/logo-canal-2021.svg" group-title="Colombia", Canal RCN | HD
 https://stream-01.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZcrpaSqVq6g_1XZ5T9Yg1vcrukbVWjnrMX0CXg17CvZT)/dm/3/x7vyv0z/s/live-3.m3u8#cell=lsv4
