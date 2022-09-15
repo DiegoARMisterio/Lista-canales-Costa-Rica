@@ -105,7 +105,7 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 https://rtvelivestream.akamaized.net/segments/24h/24h_main_720.m3u8
 
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title= "Panáma", Telemetro  HD
- http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
+https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
  
 #EXTINF:-1 tvg-logo= "https://html.canalrcn.com/CanalRCN/react/rediseno-nl/widget/img/logo/logo-canal-2021.svg" group-title="Colombia", Canal RCN | HD
 https://stream-01.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZcrpaSqVq6g_1XZ5T9Yg1vcrukbVWjnrMX0CXg17CvZT)/dm/3/x7vyv0z/s/live-3.m3u8#cell=lsv4
