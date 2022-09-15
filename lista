@@ -104,7 +104,7 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="Internacional", Noticias 24H | HD
 https://rtvelivestream.akamaized.net/segments/24h/24h_main_720.m3u8
 
-#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title= "Panáma", Telemetro  HD
+#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/1200px-Logo-telemetro.svg.png" group-title= "Panamá", Telemetro  HD
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
  
 #EXTINF:-1 tvg-logo= "https://html.canalrcn.com/CanalRCN/react/rediseno-nl/widget/img/logo/logo-canal-2021.svg" group-title="Colombia", Canal RCN | HD
@@ -113,4 +113,6 @@ https://stream-01.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZcrpaSqVq6g_1XZ5T9
 #EXTINF:-1 tvg-logo= "https://html.canalrcn.com/CanalRCN/react/rediseno-nl/widget/img/logo/logo-canal-2021.svg" group-title="Colombia", Canal RCN HD2 | HD
 https://stream-02.sv4.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMEAlJpoDQfn2XaWDvJ_8ae4zENxBjQngvgbkYEreQKKp)/dm/3/x8d37jw/s/live-3.m3u8#cell=lsv4
 
-
+#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/640px-TV_Agro_logo.svg.png" group-title="Colombia", Tv Agro| HD
+https://stream-02.sv4.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMEAlJpoDQfn2XaWDvJ_8ae4zENxBjQngvgbkYEreQKKp)/dm/3/x8d37jw/s/live-3.m3u8#cell=lsv4
+http://179.1.7.198:1935/live/TVAgroHD.stream/playlist.m3u8
