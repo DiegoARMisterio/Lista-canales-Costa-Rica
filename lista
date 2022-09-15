@@ -103,3 +103,6 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="Internacional", Noticias 24H | HD | Internacional
 https://rtvelivestream.akamaized.net/segments/24h/24h_main_720.m3u8
+
+#EXTINF:-1 tvg-logo= "https://html.canalrcn.com/CanalRCN/react/rediseno-nl/widget/img/logo/logo-canal-2021.svg" group-title="Internacional", Canal RCN | HD | Internacional
+https://stream-03.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZcrpaSqVq6g_1XZ5T9Yg1vcrukbVWjnrMX0CXg17CvZT)/dm/3/x7vyv0z/s/live-0.m3u8#cell=lsv4
