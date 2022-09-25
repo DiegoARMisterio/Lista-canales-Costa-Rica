@@ -50,6 +50,18 @@ https://rtmp.info/canal38/envivo/chunklist_w37189090.m3u8
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Extra_TV_42.svg/320px-Logo_Extra_TV_42.svg.png" group-title="Costa Rica", Canal 42 Extra Tv | HD | Costa Rica
 http://51.161.130.197/live/malotv/gratis/130053.m3u8?token=Q0FYAkZRGwoVCQIKBVECCFpSAAQGDAdQCwUHW1RXVlABAlRTAQoLAQMTGBsVR0ZVAw48W1EXXwQBBVFWUR0QF0sGQjxcXRsKFQADCVIHAwFAT0FGXFgAFwgFTUESWFZAAkECUgIOCRIbE1FBElZGXgMPPFZQQwxWVxdbDRddXk4aDF48UVxUUVlVFgNEAxYcQAoQQhcPC0BeWU1BAFhGEFkXVUEPGwgDDgYWFURQW0UMFxFLFw9HdmAXTUEHSUYHVhBZDFsbAxJaAkEBRB8WWRE8EVdGQRdQU1gEEUALEFMaTxIOVEFmU1hfWlwFR11fDBBBCBcFRxkQWA4NC0VdEGcTWQcXAxsCBgkHAERO
 
+#EXTINF:-1 tvg-logo= "http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="Costa Rica", 88 Stereo | HD | Costa Rica
+http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
+
+#EXTINF:-1  tvg-logo= https://scontent.fsjo6-1.fna.fbcdn.net/v/t39.30808-6/283100567_2216291541882049_4686257016055973823_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=HnUMpoT-KvUAX8goFTQ&_nc_ht=scontent.fsjo6-1.fna&oh=00_AT8wR6VP6fb8fi1PRN8X9LgIJ5Zm_fuQBgu6F-NSY4nNXw&oe=6333DC48 group-title="Costa Rica", Cartago Medios TV | HD | Costa Rica
+https://tvdatta.com:3384/live/cartagomedioslive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  tvg-logo= "http://costaricatelevision.com/sites/default/files/2022-07/colosal-tv-costa-rica.png" group-title="Costa Rica", Colosal TV | HD | Costa Rica
+https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo= "https://serenotv.com/wp-content/uploads/2022/01/Canal-extrema-tv-en-vivo.jpg" group-title="Costa Rica", Extrema TV | HD | Costa Rica
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w1753153515.m3u8
+
 #EXTINF:-1 tvg-logo= "https://www.tvsantacruzcr.net/img/logotvsc_2.png" group-title="Costa Rica", TV Santa Cruz | HD | Costa Rica
 https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
 
@@ -62,22 +74,15 @@ https://stmv.streamingvip.click/sanvitotv/sanvitotv/chunklist_w1766052887.m3u8
 #EXTINF:-1 tvg-logo= "https://image.roku.com/developer_channels/prod/4cc8abe7402fed46c7ea31ea57e78bb76c5d3d8ebe5ab92d3b2e749a4b0803c6.png" group-title="Costa Rica", Urbano TV | SD | Costa Rica
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/chunklist_w1038934418.m3u8
 
+#EXTINF:-1 tvg-logo= "https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/07/Limon_TV_Logo.png" group-title="Costa Rica", Limón TV | HD | Costa Rica
+http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1  tvg-logo= "https://mzsportscr.com/wp-content/uploads/2022/06/LOGO-MARZENIA-sports-CURVAStitle-1.png" group-title="Costa Rica", MZ Sport | HD | Costa Rica
 https://cloudvideo.servers10.com:8081/8248/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo= "https://www.pngkey.com/png/detail/816-8164472_nicoya-tv.png" group-title="Costa Rica", Nicoya TV | HD | Costa Rica
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/chunklist_w2029325583.m3u8
 
-#EXTINF:-1 tvg-logo= "http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="Costa Rica", 88 Stereo | HD | Costa Rica
-http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
-
-#EXTINF:-1  tvg-logo= https://scontent.fsjo6-1.fna.fbcdn.net/v/t39.30808-6/283100567_2216291541882049_4686257016055973823_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=HnUMpoT-KvUAX8goFTQ&_nc_ht=scontent.fsjo6-1.fna&oh=00_AT8wR6VP6fb8fi1PRN8X9LgIJ5Zm_fuQBgu6F-NSY4nNXw&oe=6333DC48 group-title="Costa Rica", Cartago Medios TV | HD | Costa Rica
-https://tvdatta.com:3384/live/cartagomedioslive.m3u8?PlaylistM3UCL
-
-#EXTINF:-1  tvg-logo= "http://costaricatelevision.com/sites/default/files/2022-07/colosal-tv-costa-rica.png" group-title="Costa Rica", Colosal TV | HD | Costa Rica
-https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo= "https://serenotv.com/wp-content/uploads/2022/01/Canal-extrema-tv-en-vivo.jpg" group-title="Costa Rica", Extrema TV | HD | Costa Rica
-https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w1753153515.m3u8
 
 #EXTINF:-1 tvg-logo= "https://soyplancha.tv/wp-content/uploads/2022/08/SOY-PLANCHA-LOGO-TV-2019.png" group-title="Costa Rica", Soy plancha TV | HD | Costa Rica
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
