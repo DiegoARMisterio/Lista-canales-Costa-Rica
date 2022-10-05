@@ -47,9 +47,6 @@ https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-1500/chunklist.m3u8?D
 #EXTINF:-1 tvg-logo= "https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg" group-title="Costa Rica", Canal 38 | HD | Costa Rica
 https://rtmp.info/canal38/envivo/chunklist_w37189090.m3u8
 
-#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Extra_TV_42.svg/320px-Logo_Extra_TV_42.svg.png" group-title="Costa Rica", Canal 42 Extra Tv | HD | Costa Rica
-https://stream-01.sv4.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4ygU3mA_Kc4g_0vsFtMu0MkGTwb2t5QA1G6uIWezMh1y)/dm/3/x83sd3v/s/live-2.m3u8#cell=lsv4
-
 #EXTINF:-1 tvg-logo= "http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="Costa Rica", 88 Stereo | HD | Costa Rica
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 
@@ -65,8 +62,6 @@ https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w17531535
 #EXTINF:-1  tvg-logo= "https://static.wixstatic.com/media/04c6ac_24ea33fa6d5e4bb8ae4d9b2808e9eac5~mv2_d_1662_1536_s_2.png/v1/fill/w_230,h_213,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20canal%20nuevo.png"group-title="Costa Rica", Tele Uno | HD | Costa Rica
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/chunklist_w201363338.m3u8
 
-#EXTINF:-1  tvg-logo= "https://cdn.mitvstatic.com/channels/126c4368-ce89-4282-9b09-4f0f71bc8503_m.jpg"group-title="Infantil", Tooncast | SD | Infantil
-http://62.182.80.34:25461/live/malotv/gratis/132325.m3u8?token=Q0FYAkZRGwoVBVVbVAVSAVoAVgJXDQZTB1ZYAVEHVlILUQMAUQ8NAVETGBsVR0ZVAw48W1EXXwQBB1JRVx0QF0sGQjxcXRsKFQADCVIHAwFAT0FGXFgAFwgFTUESWFZAAkEBUgwLABIbE1FBElZGXgMPPFZQQwxWVxdbDRddXk4aDF48UVxUUVlVFgNEAxYcQAoQQhcPC0BeWU1BAFhGEFkXVUEPGw8BBxMYGwVcQV4WERoQDxcmZxAZQwYaRVcMSwpfDRcDG10ERAwbShFdQz0RBkFBRwBUX1ATQVgTA0AUQV0CTWZaX1lfUVoSWlteEUFZEAUXSRdfWg8KFl5APUgKVEEPGwsFDgYHGxs=
 
 #EXTINF: -1 tvg-logo= "https://telebrunca.com/wp-content/uploads/2022/07/cropped-Logo-telebrunca2-01-1-1536x1124.png" group-title"Costa Rica", TeleBrunca | HD | Costa Rica
 https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/chunklist_w1114133706.m3u8
