@@ -120,5 +120,8 @@ https://rtvelivestream.akamaized.net/segments/24h/24h_main_720.m3u8
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/640px-TV_Agro_logo.svg.png" group-title="Colombia", Tv Agro | SD
 http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8
 
-#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Canal_10_Nicaragua.png/190px-Canal_10_Nicaragua.png" group-title="Nicaragua", Canal 10|  SD
+#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Canal_10_Nicaragua.png/190px-Canal_10_Nicaragua.png" group-title="Nicaragua", Canal 10 |  SD
 https://dr16kqaca4jpc.cloudfront.net/hls/canal10_480.m3u8
+
+#EXTINF:-1 tvg-logo= "https://main.tn8.tv/wp-content/uploads/2021/04/logo_tn8.png" group-title="Nicaragua", TN8 |  SD
+https://60417ddeaf0d9.streamlock.net/tn8/videotn8/chunklist_w1777848651.m3u8
