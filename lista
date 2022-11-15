@@ -135,7 +135,3 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CARTOON_NETWORK_logo.png/640px-CARTOON_NETWORK_logo.png" group-title="Infantil", Cartoon Network |  HD | Infantil
 
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-
-
-#EXTINF:-1 tvg-logo= "https://sicultura-live.s3.amazonaws.com/public/media/alajuela_0.jpg" group-title="Radio", Radio Alajuela 1120 AM
-http://99.198.110.162:7002
