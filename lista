@@ -115,7 +115,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANC
 https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="Internacional", Noticias 24H | HD
-https://rtvelivestream.akamaized.net/segments/24h/24h_main_720.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1668937654/ei/VqN5Y4KdNsGNgAf30qbwBQ/ip/92.205.10.243/id/xR-4NDFsYNk.7/source/yt_live_broadcast/requiressl/yes/tx/24412679/txs/24412676%2C24412677%2C24412678%2C24412679%2C24412680%2C24412681%2C24412682/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgSdOaF9ijRtWhSGujhHba3-Pk_rg0Toard-QRZaaAPRACIQD8hIQntCkpC_loFNu6ts3ApRW2U1Xf-SRDHeU2Uisgnw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo= "https://redtal.tv/storage/2644/perfil-eureka.png" group-title="Colombia", Eureka |  HD | Colombia
 https://live-edge-eu-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/live-2500/index.m3u8
