@@ -13,9 +13,6 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal4_360.m3u8
 http://190.7.192.164:8002/play/s11
 
 
-#EXTINF:0 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/670px-Teletica_Logo.png" group-title="Costa Rica", Canal 7 Teletica | HD | Costa Rica
-http://144.217.5.54:25461/streaming/clients_normal.php?username=malotv&password=gratis&stream=125905&extension=m3u8&token=Q0FYAkZRGwoVAgQPUlVXVVZTVwtTUVwBBFRYBgFUAgEMAQVSUAALVAUTGBsVR0ZVAw48W1EXXwQAAFhTVx0QF0sGQjxcXRsKFQADCVIHAwFAT0FGXFgAFwgFTUESWFZAAkEEWgQKGxwVVExNA0FaUQ48B1dDXAZQEA8PFg5dHkBXDW8HUFRYXlMTDhtWERgSCxATEA9bEFleGUMBC0VAA0wGElkXCwoGDhMYGwVcQV4WERoQDxcmZxAZQwYaRVcMSwpfDRcDG10ERAwbShFdQz0RBkFBRwBUX1ATQVgTA0AUQV0CTWZaX1lfUVoSWlteEUFZEAUXSRdfWg8KFl5APUgKVEEPGwoABBNJ
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Canal_8_Costa_Rica.svg/revision/latest/scale-to-width-down/250?cb=20211002192232&path-prefix=es" group-title="Costa Rica", Canal 8 Multimedios | HD | Costa Rica
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
@@ -23,8 +20,6 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_360.m3u8	
 
 
-#EXTINF:-1 tvg-logo= "https://observador.cr/wp-content/uploads/2022/07/Logo-nuevo-canal-13-300x271.png" group-title="Costa Rica", Canal 13 | HD | Costa Rica
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZZiAXIhkxU9k5c-rZYdgvznyXlpp2bFsq8uQ4n3yhsJg)/dm/3/x7vh8g3/d/live-2.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-logo= "https://www.tvsur.co.cr/wp-content/uploads/2020/05/tvsur-logo.png" group-title="Costa Rica", Canal 14 TV Sur | HD | Costa Rica
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/chunklist_w1217672925.m3u8
@@ -105,26 +100,16 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 #EXTINF:0 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png" group-title="Internacional", Euronews | HD | Internacional
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="Internacional", France 24 Español | HD | Internacional
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Espanol/live
-
-#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="Internacional", France 24 Inglés| HD | Internacional
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
 
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="Internacional", RT News | HD
 https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 
-#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="Internacional", Noticias 24H | HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1668937654/ei/VqN5Y4KdNsGNgAf30qbwBQ/ip/92.205.10.243/id/xR-4NDFsYNk.7/source/yt_live_broadcast/requiressl/yes/tx/24412679/txs/24412676%2C24412677%2C24412678%2C24412679%2C24412680%2C24412681%2C24412682/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgSdOaF9ijRtWhSGujhHba3-Pk_rg0Toard-QRZaaAPRACIQD8hIQntCkpC_loFNu6ts3ApRW2U1Xf-SRDHeU2Uisgnw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo= "https://redtal.tv/storage/2644/perfil-eureka.png" group-title="Colombia", Eureka |  HD | Colombia
 https://live-edge-eu-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/live-2500/index.m3u8
 
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/640px-TV_Agro_logo.svg.png" group-title="Colombia", Tv Agro | SD | Colombia
 http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8
-
-#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Canal_10_Nicaragua.png/190px-Canal_10_Nicaragua.png" group-title="Nicaragua", Canal 10 |  SD | Nicaragua
-https://dr16kqaca4jpc.cloudfront.net/hls/canal10_480.m3u8
 
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/e/e0/Tn8_logotipo_2021.png" group-title="Nicaragua", TN8 |  SD | Nicaragua
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/chunklist_w1777848651.m3u8
@@ -135,5 +120,4 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CARTOON_NETWORK_logo.png/640px-CARTOON_NETWORK_logo.png" group-title="Infantil", Cartoon Network |  HD | Infantil
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/9/9f/NBC_News_2013_logo.png" group-title="Internacional", NBC news |  HD | Internacional
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1668938271/ei/v6V5Y9egDIvX1wLcj5uwDQ/ip/92.205.10.243/id/kM6kDzgIn-M.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJJWCylhv9u9YNB2gcauTgGf6LI3LfIGS7JAvVCRqO_6AiEAxYJSftc4x0W6aclkvzWDDdewHQ5cPQ_itGCo0ZAfKcc%3D/file/index.m3u8
+
