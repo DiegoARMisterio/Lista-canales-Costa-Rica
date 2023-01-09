@@ -106,6 +106,11 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 #EXTINF:0 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png" group-title="Internacional", Euronews | HD | Internacional
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="Internacional", France 24 Español | HD | Internacional
+https://hls.youtb.workers.dev/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+
+#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="Internacional", France 24 Inglés| HD | Internacional
+https://hls.youtb.workers.dev/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="Internacional", RT News | HD
 https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
@@ -124,7 +129,9 @@ https://60417ddeaf0d9.streamlock.net/tn8/videotn8/chunklist_w1777848651.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CARTOON_NETWORK_logo.png/640px-CARTOON_NETWORK_logo.png" group-title="Infantil", Cartoon Network |  HD | Infantil
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/Cr8FuMsG3y_YpT4PVLK2Wb5CiKBXnSdlJDkvA7lpovBtN9qNrKLMha_Y1UE3VYkragoq5pKs9apXu0vxDVinT--C9EZFoXWJ3fnlrt-0LM1IMxD53Qzbf4SvAKCMipl_h7_XotKhFzqisDhwI65ArXWVToSuDtcnXW6M7NIqA74K_kmZRj4IdM6TnSrCCXlHQdyZpkLJEwnGGqf4CHSf2F6hyYSDbNNzvtwwiurRPAyoNsZpyt3UndR3gcLNxLTDviJEgaJUOkBehuCY79ygFiKKCa_TXr_bGUTPKxdpyjzIE3QzlaHfWKWSoYCsj6A6fa29UbHNJYZHRtWUT9HW9rLlnGYD0N_z4zeuOEcTBMOFtua-63--Ht7ovDJM6cDSPS2R5Aw_KPgA4AzYeio9v1BvOWheb7Ndvflagw1ijAu3URPnMH6JdEWMWIPfHPiX6SCvg9DK7N28vl4RS3b_d4kd6wfu0TW42r3qDRg9q_AFDg1H537pZVGhdKfSU_7Le6NMzttFTEpXLZF3XTZxuEqJkVXCawdq6bfpm9c87ZthKcPK991pxOz3HCzb_r_synMK0c61pr6Tad4oDZjlNzFuxgE0T-dGeASrVgFEyFm6jaTW-B6J4x2KCSNLt8IqiDSc9qYT0zOhxEnxwMy0ezr5Qcx87ch_NFvpJO_wOoHM5YMDFqBf8OdAwtiQwX80TqGtIohIw28XHbG0w4Thovdeh7uVNGDh9PjZAuIRVdwUmMzxH_HukFzt3UkXIyk-_pknU9PYSpMISOaHW6eT89uc6Lj0Zf4mPPB-ceE0xZs8_0DJg1FiaSWSVm-mqNZ6MZnGTobVoRWQTxAnWK6FFytTR8oF6YSlO6r_YKcTTGLp8-GKcPeFctbyc91MzMQUT7cgo-G9vOSNqSWbFthp2Oxxx_x_Mn9E-LqsimCgLcNfYhoM1Gikp-3fjpxQ7iL3IAEqCWV1LXdlc3QtMjDLBQ.m3u8
+
+//https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-logo= "https://tentulogo.com/wp-content/uploads/2018/09/Tastemade-cover.jpg" group-title="Internacional", Tastemade |  HD | Internacional
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
@@ -132,3 +139,5 @@ https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo= "https://canalesdominicanos.live/template/images/radios/telenord.jpg" group-title="República Dominicana", Telenord 10 |  HD | República Dominicana
 http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
 
+#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Can10_c%C3%B3rdoba.png/220px-Can10_c%C3%B3rdoba.png" group-title="Argentina", Canal 10 |  HD | Argentina
+https://stream.arcast.live/canal10/ngrp:canal10_all/chunklist_w1526849479_b581072.m3u8
