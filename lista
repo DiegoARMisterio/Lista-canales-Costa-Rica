@@ -115,6 +115,9 @@ https://hls.youtb.workers.dev/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="Internacional", RT News | HD
 https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 
+#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="Internacional", TNT | HD
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/Cr4F1oMv92tiElXbvza7NN3wJtBM9LZ8tHRmPZHLIpncDLxzpi0fNGD8GqkxAxOo-gN_qJ8entx1lrxJTdbhnCUhFgTBgFiaRgtg8VmspxZwWIGC7fTI_gLjhlOafGXpMawNr_Mz8Yj___b81kJ2uEiVvgdJWUpmy-zEoez4lsXjLWdn5XB4LjOXiNmeEg2XP2bi6vkrc4aczmM-FVrjyNQoaG2J4h7h8VJ-_ukguUvgIsRcC7W6Ctnn6DioC45WmQaADL_L_VWCoGzbYdD3koawSYQVyROvy4PcZhX1nQYGLFRtI262VUseiElhbOCOYXYVPvoCPiyeoU3MOFnLrBXXI1HVlzBI1dMtTZEb8qpbt8nnG6ZnK8l9rL9OtXY1nf4RPCOavFbzYeHNAxQ9qZdOLRXSZbi2mwRQ1IdK_TXrpRPgSysV1HTTEqAd_0IFRTGX63DXkyMb_DVnQcpQonOP0-PJVaoCuKAaaI413ZnsGaw4dbuN3TQTEB7OFRICGNC5Q6uJ8bi-_BtQZOn8Du5Pa9wwCsvUWZcnehHAnOOyV20x3YNLaKge40rCjjEMDNM6B86XMBwRPnBpQ_sxZzbMd4rUeDS-Mpb75HF-U_3ElV8CM31_lRifyQ5226T4ocbrPTqFXXiebrYCA91QwYvYnOxT20tOUUlv6YdfmntLNpwtRgODOmb0AIYDt0qNOj5eceHpDdpz0DntXvhrWnjIDl11RRadBZtLPvbZN38Gbu-MdGC7OvgUooMWDByaznZ6IifvHouBMxdVfOoKaPxxNQhD31N77ZpmPMJ8IAJ0_M69c5sPYEr5X9Yb58gjH91ZoUjcPPTkViWrROjcXQ_bKRiMmxWrCGO3M9B6StL9O-7Oz2yQd7YY1abJqxKKyWe7FuvXnufKmEc5Hwph8zLWKQ6YhylryZ6PoiKek62mGgx_ToRdfnztplhkyVwgASoJZXUtd2VzdC0yMMsF.m3u8
+
 
 #EXTINF:-1 tvg-logo= "https://redtal.tv/storage/2644/perfil-eureka.png" group-title="Colombia", Eureka |  HD | Colombia
 https://live-edge-eu-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/live-2500/index.m3u8
