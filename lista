@@ -159,7 +159,7 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1431072.m3u8
 #EXTINF:-1 tvg-logo= "https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png/revision/latest?cb=20210308032446&path-prefix=es" group-title="México", TeleSur |  HD | Venezuela
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo= "https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png/revision/latest?cb=20210308032446&path-prefix=es" group-title="Colombia", Alpasufnet |  HD | Colombia
+#EXTINF:-1 tvg-logo= "https://alpavision.com.co/wp-content/uploads/2022/07/logo-alpa_Mesa-de-trabajo-1.png" group-title="Colombia", Alpasufnet |  HD | Colombia
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/chunklist_w1470107045.m3u8
 
 #EXTINF:-1 tvg-logo= "https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f2da07961acd87f51b057f5/mediaLibrary/photo/864723cb-d3e1-4543-8cb0-244988977bc2-small-standard-q100.webp" group-title="Chile", Antofagasta TV |  HD | Chile
