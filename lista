@@ -172,8 +172,8 @@ https://5ca9af4645e15.streamlock.net/trostreaming/smil:trostreaming.smil/chunkli
 #EXTINF:-1 tvg-logo= "https://www.eabolivia.com/images/stories/plus/logo-boliviatv.jpg" group-title="Bolivia", Bolivia 7.2 | HD | Bolivia
 https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/chunklist_w22886929.m3u8
 
-#EXTINF:-1 tvg-logo= "http://www.canal12.com.ni/assets/logo_horizontal-b7fe143ebd9e9dab2e72ffea436db26fce21c81b7ae6ac430ede875f5df30657.png" group-title="Nicaragua", Canal 12 | HD | Nicaragua
-https://5ca9af4645e15.streamlock.net/canal12/videocanal12/chunklist_w1887219142.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDIzIDEwOjQ5OjQzIFBNJmhhc2hfdmFsdWU9UlJpeThLeUhwbWxBSW9iZ3JZZ3FiQT09JnZhbGlkbWludXRlcz0xMCZpZD0%3D
+#EXTINF:-1 tvg-logo= "https://directostv.teleame.com/wp-content/uploads/2017/10/telecanal12.png" group-title="Nicaragua", Telecanal 12 | HD | República Dominicana
+https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8
 
 #EXTINF:-1 tvg-logo= "https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2021/03/logo-tvlatina.png" group-title="Bolivia", TVLatina | HD | Bolivia
 https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
