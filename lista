@@ -12,6 +12,7 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal4_360.m3u8
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/240px-Repretel_6_logo.png" group-title="Costa Rica",  Canal 6  Repretel | HD | Costa Rica
 http://190.7.192.164:8002/play/s11
 
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Canal_8_Costa_Rica.svg/revision/latest/scale-to-width-down/250?cb=20211002192232&path-prefix=es" group-title="Costa Rica", Canal 8 Multimedios | HD | Costa Rica
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
@@ -19,6 +20,8 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_360.m3u8	
 
 
+#EXTINF:-1 tvg-logo= "https://costaricamedios.cr/wp-includes/images/botones/envivocanal13.png" group-title="Costa Rica",  Canal 13  Sinart | HD | Costa Rica
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7vh8g3
 
 #EXTINF:-1 tvg-logo= "https://www.tvsur.co.cr/wp-content/uploads/2020/05/tvsur-logo.png" group-title="Costa Rica", Canal 14 TV Sur | HD | Costa Rica
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/chunklist_w1217672925.m3u8
@@ -111,12 +114,11 @@ https://hls.youtb.workers.dev/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="Internacional", France 24 Inglés| HD | Internacional
 https://hls.youtb.workers.dev/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
-#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="Internacional", RT News | HD
+#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="Internacional", RT News | HD | Internacional
 https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 
-#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="Internacional", TNT | HD
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/Cr4F1oMv92tiElXbvza7NN3wJtBM9LZ8tHRmPZHLIpncDLxzpi0fNGD8GqkxAxOo-gN_qJ8entx1lrxJTdbhnCUhFgTBgFiaRgtg8VmspxZwWIGC7fTI_gLjhlOafGXpMawNr_Mz8Yj___b81kJ2uEiVvgdJWUpmy-zEoez4lsXjLWdn5XB4LjOXiNmeEg2XP2bi6vkrc4aczmM-FVrjyNQoaG2J4h7h8VJ-_ukguUvgIsRcC7W6Ctnn6DioC45WmQaADL_L_VWCoGzbYdD3koawSYQVyROvy4PcZhX1nQYGLFRtI262VUseiElhbOCOYXYVPvoCPiyeoU3MOFnLrBXXI1HVlzBI1dMtTZEb8qpbt8nnG6ZnK8l9rL9OtXY1nf4RPCOavFbzYeHNAxQ9qZdOLRXSZbi2mwRQ1IdK_TXrpRPgSysV1HTTEqAd_0IFRTGX63DXkyMb_DVnQcpQonOP0-PJVaoCuKAaaI413ZnsGaw4dbuN3TQTEB7OFRICGNC5Q6uJ8bi-_BtQZOn8Du5Pa9wwCsvUWZcnehHAnOOyV20x3YNLaKge40rCjjEMDNM6B86XMBwRPnBpQ_sxZzbMd4rUeDS-Mpb75HF-U_3ElV8CM31_lRifyQ5226T4ocbrPTqFXXiebrYCA91QwYvYnOxT20tOUUlv6YdfmntLNpwtRgODOmb0AIYDt0qNOj5eceHpDdpz0DntXvhrWnjIDl11RRadBZtLPvbZN38Gbu-MdGC7OvgUooMWDByaznZ6IifvHouBMxdVfOoKaPxxNQhD31N77ZpmPMJ8IAJ0_M69c5sPYEr5X9Yb58gjH91ZoUjcPPTkViWrROjcXQ_bKRiMmxWrCGO3M9B6StL9O-7Oz2yQd7YY1abJqxKKyWe7FuvXnufKmEc5Hwph8zLWKQ6YhylryZ6PoiKek62mGgx_ToRdfnztplhkyVwgASoJZXUtd2VzdC0yMMsF.m3u8
-
+#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="Internacional", Canal 24 | HD | Internacional
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
 
 #EXTINF:-1 tvg-logo= "https://redtal.tv/storage/2644/perfil-eureka.png" group-title="Colombia", Eureka |  HD | Colombia
 https://live-edge-eu-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/live-2500/index.m3u8
@@ -150,8 +152,6 @@ https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500
 #EXTINF:-1 tvg-logo= "https://static.wikia.nocookie.net/logopedia/images/9/99/Cosmovisi%C3%B3n_1998.png/revision/latest?cb=20210212135643&path-prefix=es" group-title="Colombia", Cosmovisión |  HD | Colombia
 https://videohls2.cosmovision.tv/hls/sd_720p2628kbs/index.m3u8
 
-#EXTINF:-1 tvg-logo= "https://escudouchile.files.wordpress.com/2012/06/escudo-universidad-de-chile-color-11.png?w=1200" group-title="Chile", UChile | HD | Chile
-https://unlimited1-us.dps.live/uchiletv/uchiletv.smil/uchiletv/livestream1/chunks.m3u8?nimblesessionid=32369596
 
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_Actual_Canal_Once.png" group-title="México", Once | HD | México
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1431072.m3u8
@@ -165,18 +165,9 @@ https://stmv1.voxtvhd.com.br/alpavision/alpavision/chunklist_w1470107045.m3u8
 #EXTINF:-1 tvg-logo= "https://www.senalcolombia.tv/themes/custom/colombia_subtheme/img/nuevo_home/logo.svg" group-title="Colombia", Señal Colombia | HD | Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b3500000.m3u8
 
-#EXTINF:-1 tvg-logo= "https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f2da07961acd87f51b057f5/mediaLibrary/photo/864723cb-d3e1-4543-8cb0-244988977bc2-small-standard-q100.webp" group-title="Chile", Antofagasta TV | HD | Chile
-https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8?nimblesessionid=33068746
 
 #EXTINF:-1 tvg-logo= "https://static.wikia.nocookie.net/logopedia/images/d/d3/Canal_TRO_2001.png/revision/latest/scale-to-width-down/400?cb=20200921155947&path-prefix=es" group-title="Colombia", Canal TRO | HD | Colombia
 https://5ca9af4645e15.streamlock.net/trostreaming/smil:trostreaming.smil/chunklist_w984749749_b3428000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo= "https://www.reduno.com.bo/img/estructura/og_image.jpg" group-title="Bolivia", Red uno| HD | Bolivia
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLqd26W9WxaRY3BVELzmz_tGksU5SwMdfDIGf-nktumGf)/dm/3/x825whp/d/live-2.m3u8#cell=lnyc
-
-
-#EXTINF:-1 tvg-logo= "https://www.eabolivia.com/images/stories/plus/logo-boliviatv.jpg" group-title="Bolivia", Bolivia 7.1 | HD | Bolivia
-https://5f2c1b0d880e5.streamlock.net/boliviatv/videoboliviatv/chunklist_w971048972.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDIzIDEwOjQ1OjMwIFBNJmhhc2hfdmFsdWU9V1N6R2xHdVEwOUJlOExFZ050TTZyQT09JnZhbGlkbWludXRlcz0xMCZpZD0%3D
 
 #EXTINF:-1 tvg-logo= "https://www.eabolivia.com/images/stories/plus/logo-boliviatv.jpg" group-title="Bolivia", Bolivia 7.2 | HD | Bolivia
 https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/chunklist_w22886929.m3u8
