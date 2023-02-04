@@ -182,3 +182,12 @@ https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
 
 #EXTINF:-1 tvg-logo= "https://canal33.tv/home/wp-content/uploads/2019/08/200.png" group-title="El salvador", Canal 33 | HD | El Salvador
 https://5e50264bd6766.streamlock.net/canal33/smil:canal33.smil/chunklist_w1368225366_b3428000_DVR_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjMgNTo0MjozOCBQTSZoYXNoX3ZhbHVlPUpsbEN3NDAyeWtEMDFmZVVEVW51YUE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TgSeikY.png" group-title="Honduras", TEN Honduras | HD | Honduras
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="Argentina", Telemax | SD | Argentina
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oAdVLb8.png" group-title="Argentina", Music Top | HD | Argentina
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
