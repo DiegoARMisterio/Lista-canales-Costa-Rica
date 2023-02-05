@@ -98,6 +98,9 @@ https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/chunklist_w2029325583.m3u
 #EXTINF:-1 tvg-logo= "https://soyplancha.tv/wp-content/uploads/2022/08/SOY-PLANCHA-LOGO-TV-2019.png" group-title="Costa Rica", Soy plancha TV | HD | Costa Rica
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo= "https://scontent.fsjo6-1.fna.fbcdn.net/v/t39.30808-6/306079308_503474208448691_6484748601312239595_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Ttj5VEr13EMAX_1EEG7&_nc_ht=scontent.fsjo6-1.fna&oh=00_AfD7Kv-jxlGRTakJv18R584uIIhR-S5kBtqFnwvSIsS67A&oe=63E458E1" group-title="Costa Rica", TV Curré | HD | Costa Rica
+http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:0 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="Internacional", Actualidad RT | HD | Internacional
 https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
 
