@@ -135,15 +135,13 @@ https://live-edge-eu-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/live-
 http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8
 
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/e/e0/Tn8_logotipo_2021.png" group-title="Nicaragua", TN8 |  SD | Nicaragua
-https://60417ddeaf0d9.streamlock.net/tn8/videotn8/chunklist_w1777848651.m3u8
+https://60417ddeaf0d9.streamlock.net/tn8/videotn8/chunklist_w2061450532.m3u8
 
 #EXTINF:-1 tvg-logo= "https://e7.pngegg.com/pngimages/520/39/png-clipart-red-bull-energy-drink-logo-graphics-brand-red-bull-company-carnivoran.png" group-title="Deportes", Redbull |  HD | Deportes
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CARTOON_NETWORK_logo.png/640px-CARTOON_NETWORK_logo.png" group-title="Infantil", Cartoon Network |  HD | Infantil
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/Cr8FuMsG3y_YpT4PVLK2Wb5CiKBXnSdlJDkvA7lpovBtN9qNrKLMha_Y1UE3VYkragoq5pKs9apXu0vxDVinT--C9EZFoXWJ3fnlrt-0LM1IMxD53Qzbf4SvAKCMipl_h7_XotKhFzqisDhwI65ArXWVToSuDtcnXW6M7NIqA74K_kmZRj4IdM6TnSrCCXlHQdyZpkLJEwnGGqf4CHSf2F6hyYSDbNNzvtwwiurRPAyoNsZpyt3UndR3gcLNxLTDviJEgaJUOkBehuCY79ygFiKKCa_TXr_bGUTPKxdpyjzIE3QzlaHfWKWSoYCsj6A6fa29UbHNJYZHRtWUT9HW9rLlnGYD0N_z4zeuOEcTBMOFtua-63--Ht7ovDJM6cDSPS2R5Aw_KPgA4AzYeio9v1BvOWheb7Ndvflagw1ijAu3URPnMH6JdEWMWIPfHPiX6SCvg9DK7N28vl4RS3b_d4kd6wfu0TW42r3qDRg9q_AFDg1H537pZVGhdKfSU_7Le6NMzttFTEpXLZF3XTZxuEqJkVXCawdq6bfpm9c87ZthKcPK991pxOz3HCzb_r_synMK0c61pr6Tad4oDZjlNzFuxgE0T-dGeASrVgFEyFm6jaTW-B6J4x2KCSNLt8IqiDSc9qYT0zOhxEnxwMy0ezr5Qcx87ch_NFvpJO_wOoHM5YMDFqBf8OdAwtiQwX80TqGtIohIw28XHbG0w4Thovdeh7uVNGDh9PjZAuIRVdwUmMzxH_HukFzt3UkXIyk-_pknU9PYSpMISOaHW6eT89uc6Lj0Zf4mPPB-ceE0xZs8_0DJg1FiaSWSVm-mqNZ6MZnGTobVoRWQTxAnWK6FFytTR8oF6YSlO6r_YKcTTGLp8-GKcPeFctbyc91MzMQUT7cgo-G9vOSNqSWbFthp2Oxxx_x_Mn9E-LqsimCgLcNfYhoM1Gikp-3fjpxQ7iL3IAEqCWV1LXdlc3QtMjDLBQ.m3u8
-
-//https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-logo= "https://tentulogo.com/wp-content/uploads/2018/09/Tastemade-cover.jpg" group-title="Internacional", Tastemade |  HD | Internacional
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
