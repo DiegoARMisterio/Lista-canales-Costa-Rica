@@ -131,8 +131,8 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
 #EXTINF:-1 tvg-logo= "https://redtal.tv/storage/2644/perfil-eureka.png" group-title="Colombia", Eureka |  HD | Colombia
 https://live-edge-eu-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/live-2500/index.m3u8
 
-#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/640px-TV_Agro_logo.svg.png" group-title="Colombia", Tv Agro | SD | Colombia
-http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8
+#EXTINF:-1 tvg-logo= "https://cdn.colombia.com/canales/veo-television-5681.jpg" group-title="Colombia", Veo TV | SD | Colombia
+https://movil.ejeserver.com/live/veotv.m3u8
 
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/e/e0/Tn8_logotipo_2021.png" group-title="Nicaragua", TN8 |  SD | Nicaragua
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/chunklist_w2061450532.m3u8
@@ -191,5 +191,9 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oAdVLb8.png" group-title="Argentina", Music Top | HD | Argentina
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/1200px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="Perú", ATV Sur | HD | Perú
 https://atvsur.mediatiquestream.com/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image88527916465.jpg" group-title="Perú", Antares TV | HD | Perú
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1567620745.m3u8
