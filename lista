@@ -198,5 +198,5 @@ https://atvsur.mediatiquestream.com/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image88527916465.jpg" group-title="Perú", Antares TV | HD | Perú
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1567620745.m3u8
 
-#EXTINF:-1 tvg-logo="https://wipr.pr/wp-content/uploads/2018/11/logo-big-blue.png" group-title="Puerto Rico", Antares TV | HD | Puerto Rico
+#EXTINF:-1 tvg-logo="https://wipr.pr/wp-content/uploads/2018/11/logo-big-blue.png" group-title="Puerto Rico", wipR| HD | Puerto Rico
 https://streannliveprtv.cachefly.net/Protected/sp=1;dirmatch=true;ip=186.177.184.78/5b61edc3f63331522dcfc0b84f3ca08c80eb5a83fd7d3888326640e251c2dc8d/prtv1/prtv1/chunks.m3u8
