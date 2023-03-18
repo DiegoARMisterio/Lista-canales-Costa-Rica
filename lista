@@ -193,5 +193,5 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1
 #EXTINF:-1 tvg-logo="https://wipr.pr/wp-content/uploads/2018/11/logo-big-blue.png" group-title="Puerto Rico", WipR| HD | Puerto Rico
 https://streannliveprtv.cachefly.net/Protected/sp=1;dirmatch=true;ip=186.177.184.78/5b61edc3f63331522dcfc0b84f3ca08c80eb5a83fd7d3888326640e251c2dc8d/prtv1/prtv1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Eurosport_Logo_2015.png" group-title="Deportes", EuroSport| HD | Deportes
-https://eurosport-live-prod.akamai.prod-live.h264.io/primary/2/768d16962342470596daa635f458dd02/hdntl=exp=1677259133~acl=/primary/2/768d16962342470596daa635f458dd02/*~data=hdntl~hmac=1c08ad6f9cb11adbf071c38c613bc52315d0c436c3f38909b08c99e8c7b77c37/start/1677204272/index_13_0.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_tv3x.png" group-title="España", TV3| HD | España
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/bitrate_1.m3u8
