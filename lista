@@ -160,10 +160,6 @@ https://stmv1.voxtvhd.com.br/alpavision/alpavision/chunklist_w1470107045.m3u8
 #EXTINF:-1 tvg-logo= "https://www.senalcolombia.tv/themes/custom/colombia_subtheme/img/nuevo_home/logo.svg" group-title="Colombia", Señal Colombia | HD | Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b3500000.m3u8
 
-
-#EXTINF:-1 tvg-logo= "https://static.wikia.nocookie.net/logopedia/images/d/d3/Canal_TRO_2001.png/revision/latest/scale-to-width-down/400?cb=20200921155947&path-prefix=es" group-title="Colombia", Canal TRO | HD | Colombia
-https://liveingesta318.cdnmedia.tv/canaltro2live/live-1500/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo= "https://www.eabolivia.com/images/stories/plus/logo-boliviatv.jpg" group-title="Bolivia", Bolivia 7.2 | HD | Bolivia
 https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/chunklist_w22886929.m3u8
 
