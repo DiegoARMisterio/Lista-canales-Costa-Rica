@@ -186,3 +186,9 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_tv3x.png" group-title="España", TV3| HD | España
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/fb.png" group-title="Argentina", Neo TV| SD | Argentina
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png" group-title="Argentina", Panc TV| SD | Argentina
+https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8
