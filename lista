@@ -145,6 +145,8 @@ https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500
 #EXTINF:-1 tvg-logo= "https://static.wikia.nocookie.net/logopedia/images/9/99/Cosmovisi%C3%B3n_1998.png/revision/latest?cb=20210212135643&path-prefix=es" group-title="Colombia", Cosmovisión |  HD | Colombia
 https://videohls2.cosmovision.tv/hls/sd_720p2628kbs/index.m3u8
 
+#EXTINF:-1 tvg-logo= "https://static.wikia.nocookie.net/logopedia/images/9/99/Cosmovisi%C3%B3n_1998.png/revision/latest?cb=20210212135643&path-prefix=es" group-title="Colombia", Cosmovisión |  HD | Colombia
+https://nlb1-live.emitstream.com/hls/646wzsnqyforndavy6de/fragments/teve4/index.m3u8
 
 #EXTINF:-1 tvg-logo= "https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png/revision/latest?cb=20210308032446&path-prefix=es" group-title="México", TeleSur |  HD | Venezuela
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
@@ -192,3 +194,11 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png" group-title="Argentina", Panc TV| SD | Argentina
 https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8
+
+https://is-tucuman.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvcs.tv/wp-content/uploads/2022/07/TelevisoDeCastello.jpg" group-title="España", Televisió de Castelló| HD | España
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CoUG_hTowy3PAKF0XUhc2hRIkzYsxvaZIWhbdu3ScBA9EBSK5h8YIOIIB73y2W0O8uJQPrnXt2zC-HcDJLC4MZTjNUoFQ2bwgGrFHHBGcUKgzeEqUAWp91UzDSEaT7YN5LzLtCklzIlhh1kz_VLN5dG5wYXGQyFVbNjA2q34v89MBPUGDUAa5wWOk19-7S_fr9QAeg0rcLw2-5bYaOtcMvLMSPoEwBLxnGAjgJfVDBKxSbhg1Bd7l2IwCIzO1S2IkJ_Qhm_ByRxAdEs1zFSRZ3cJxaqfh_xfVXQbqIdx2ykP17Q1HiYY2WED8JCMmAqizDUUAryIpU9fpQl6pMypaxSNG54VF1U8TvxluOJvWNRO4Aq0u_hno1aYFSyC4D33MiY7EBuT3XNU6r8NGZ_04aLc4FZjnDTOy6QFubLJtCm2tL7Q-Q-AvUBv5H2jDxIP1k6sRRHr_yzs4gP0ixPYFlkLqzzsDjLyGdPB_PdV0m_XBaPYAmn4uyubBfL3NWOufOeEpSYVgGrahcaSIEocREmtuQmSUBzH0ihsAOdHkea_mnSH-HOZ_5Pkq0BbcOM1AaL0XCr_K2S_d_3cXJ21-s7rrJdX-fwtQhPRASloxV1mG4JjfmEh6D8mSF-EOA9vG2eCOeDUY3LNskGZFZVH-yEInqPWpBRLwQzxxWk2N4JcoT6q3rHT1wA4JaZcoLzPtkmv4QnvtOb1wiI2I-OwiH39YuiQfnukn7Ug0sa8L7zs9Abp2DBKO18yQ2qWC_ElZ2x-aDBkcyTd7DaKGpvO0AuVL5kDU3RExv9ayQizfRtyko-hyA3YAJS_eRDIG8LYhygACPUKoxXkeaCG43JLlmb8GCKnNIShk-NNl2OnO-ZV-w1KMCcDNTKbhKJdlXReivJ71_Jh4LHFwkRunjVW4wigLInGyoDwsntRnI_H2B96cG0k0DpVYInvIIQdqb_mzgkQhAjSJzAVwwiI2ZnCkBCY7P95mOdcivB0LP9iKKAgGGu6n-xUrexzh-HK1qMRf31AKQnYhF8aDIh3zCCknMJFVcQAKiABKglldS13ZXN0LTIwmwc.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.foromedios.com%2Fgallery%2Fimage%2F8796-star-channel-2021-fondo-oscuro%2F&psig=AOvVaw3uXQjUM_xy7h1WOiKPIkED&ust=1691342192930000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDTr-eCxoADFQAAAAAdAAAAABAE" group-title="Internacional", Star Channel| HD 
+https://nlb2-live.emitstream.com/hls/646wzsnqyforndavy6de/fragments/teve4/index.m3u8
