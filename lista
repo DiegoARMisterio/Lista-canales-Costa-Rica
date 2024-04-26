@@ -40,6 +40,7 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo= "https://photos.live-tv-channels.org/tv-logo/trivision-36-9497-w360.webp" group-title="Costa Rica", Canal 36 Trivisión | HD | Costa Rica
 https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-1500/chunklist.m3u8?DVR
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
 #EXTINF:-1 tvg-logo= "https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg" group-title="Costa Rica", Canal 38 | HD | Costa Rica
 https://rtmp.info/canal38/envivo/chunklist_w37189090.m3u8
