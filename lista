@@ -14,6 +14,7 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/240px-Repretel_6_logo.png" group-title="Costa Rica",  Canal 6  Repretel | HD | Costa Rica
 https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/chunks.m3u8
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Canal_8_Costa_Rica.svg/revision/latest/scale-to-width-down/250?cb=20211002192232&path-prefix=es" group-title="Costa Rica", Canal 8 Multimedios | HD | Costa Rica
@@ -40,7 +41,7 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo= "https://photos.live-tv-channels.org/tv-logo/trivision-36-9497-w360.webp" group-title="Costa Rica", Canal 36 Trivisión | HD | Costa Rica
 https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-1500/chunklist.m3u8?DVR
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
 
 #EXTINF:-1 tvg-logo= "https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg" group-title="Costa Rica", Canal 38 | HD | Costa Rica
 https://rtmp.info/canal38/envivo/chunklist_w37189090.m3u8
