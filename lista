@@ -7,13 +7,12 @@ https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8?PlaylistM3U
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal2_360.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/240px-Repretel_4_logo.png" group-title="Costa Rica", Canal 4 Repretel | HD | Costa Rica
-https://d25v5vivhcrrh5.cloudfront.net/hls/canal4_720.m3u8
+https://alba-cr-repretel-c4.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/897e9wy.png" group-title="Costa Rica", Canal 5.01 Teleritmo | SD | Costa Rica
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/240px-Repretel_6_logo.png" group-title="Costa Rica",  Canal 6  Repretel | HD | Costa Rica
-https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/chunks.m3u8
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 
 
