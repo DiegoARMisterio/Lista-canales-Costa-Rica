@@ -5,7 +5,7 @@
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png" group-title="Costa Rica", Canal 2 Repretel | SD | Costa Rica
-https://d25v5vivhcrrh5.cloudfront.net/hls/canal2_360.m3u8
+https://alba-cr-repretel-c2.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/240px-Repretel_4_logo.png" group-title="Costa Rica", Canal 4 Repretel | HD | Costa Rica
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
@@ -21,7 +21,7 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/240px-Repretel_11_logo.png" group-title="Costa Rica", Canal 11 Repretel | HD | Costa Rica
-https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/chunks.m3u8
+https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
 
 #EXTINF:-1 tvg-logo= "https://www.tvsur.co.cr/wp-content/uploads/2020/05/tvsur-logo.png" group-title="Costa Rica", Canal 14 TV Sur | HD | Costa Rica
@@ -41,10 +41,6 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo= "https://photos.live-tv-channels.org/tv-logo/trivision-36-9497-w360.webp" group-title="Costa Rica", Canal 36 Trivisión | HD | Costa Rica
 https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-1500/chunklist.m3u8?DVR
-
-
-#EXTINF:-1 tvg-logo= "https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg" group-title="Costa Rica", Canal 38 | HD | Costa Rica
-https://rtmp.info/canal38/envivo/chunklist_w37189090.m3u8
 
 #EXTINF:-1 tvg-logo= "https://image.roku.com/developer_channels/prod/15028c316a76bcd9408f730b04579257af5273595c5049db126ba4540b81a936.png" group-title="Costa Rica", Canal Opa! | HD | Costa Rica
 https://opa.usastreams.com:3101/live/canalopalive.m3u8
@@ -138,13 +134,13 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo= "https://canalesdominicanos.live/template/images/radios/telenord.jpg" group-title="República Dominicana", Telenord 10 |  HD | República Dominicana
-http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
+https://rdn.essastream.com:3676/live/telenord10live.m3u8
 
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Can10_c%C3%B3rdoba.png/220px-Can10_c%C3%B3rdoba.png" group-title="Argentina", Canal 10 |  HD | Argentina
 https://stream.arcast.live/canal10/ngrp:canal10_all/chunklist_w1526849479_b581072.m3u8
 
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/LOGO-TELEPACIFICO.png/800px-LOGO-TELEPACIFICO.png" group-title="Colombia", Telepacifico |  HD | Colombia
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000_sles.m3u8
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
 
 #EXTINF:-1 tvg-logo= "https://static.wikia.nocookie.net/logopedia/images/9/99/Cosmovisi%C3%B3n_1998.png/revision/latest?cb=20210212135643&path-prefix=es" group-title="Colombia", Cosmovisión |  HD | Colombia
 https://videohls2.cosmovision.tv/hls/sd_720p2628kbs/index.m3u8
@@ -159,13 +155,13 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/chunklist_w1470107045.m3u8
 
 #EXTINF:-1 tvg-logo= "https://www.senalcolombia.tv/themes/custom/colombia_subtheme/img/nuevo_home/logo.svg" group-title="Colombia", Señal Colombia | HD | Colombia
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b3500000.m3u8
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
 
 #EXTINF:-1 tvg-logo= "https://www.eabolivia.com/images/stories/plus/logo-boliviatv.jpg" group-title="Bolivia", Bolivia 7.2 | HD | Bolivia
 https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/chunklist_w22886929.m3u8
 
 #EXTINF:-1 tvg-logo= "https://directostv.teleame.com/wp-content/uploads/2017/10/telecanal12.png" group-title="República Dominicana", Telecanal 12 | HD | República Dominicana
-https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8
+https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 
 #EXTINF:-1 tvg-logo= "https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2021/03/logo-tvlatina.png" group-title="Bolivia", TVLatina | HD | Bolivia
 https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
@@ -182,7 +178,7 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/1200px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="Perú", ATV Sur | HD | Perú
-https://atvsur.mediatiquestream.com/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur1/chunks.m3u8
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image88527916465.jpg" group-title="Perú", Antares TV | HD | Perú
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1567620745.m3u8
@@ -197,9 +193,8 @@ https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png" group-title="Argentina", Panc TV| SD | Argentina
-https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8
+https://stream.trixserver.com:3088/live/uv096live.m3u8
 
-https://is-tucuman.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvcs.tv/wp-content/uploads/2022/07/TelevisoDeCastello.jpg" group-title="España", Televisió de Castelló| HD | España
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CoUG_hTowy3PAKF0XUhc2hRIkzYsxvaZIWhbdu3ScBA9EBSK5h8YIOIIB73y2W0O8uJQPrnXt2zC-HcDJLC4MZTjNUoFQ2bwgGrFHHBGcUKgzeEqUAWp91UzDSEaT7YN5LzLtCklzIlhh1kz_VLN5dG5wYXGQyFVbNjA2q34v89MBPUGDUAa5wWOk19-7S_fr9QAeg0rcLw2-5bYaOtcMvLMSPoEwBLxnGAjgJfVDBKxSbhg1Bd7l2IwCIzO1S2IkJ_Qhm_ByRxAdEs1zFSRZ3cJxaqfh_xfVXQbqIdx2ykP17Q1HiYY2WED8JCMmAqizDUUAryIpU9fpQl6pMypaxSNG54VF1U8TvxluOJvWNRO4Aq0u_hno1aYFSyC4D33MiY7EBuT3XNU6r8NGZ_04aLc4FZjnDTOy6QFubLJtCm2tL7Q-Q-AvUBv5H2jDxIP1k6sRRHr_yzs4gP0ixPYFlkLqzzsDjLyGdPB_PdV0m_XBaPYAmn4uyubBfL3NWOufOeEpSYVgGrahcaSIEocREmtuQmSUBzH0ihsAOdHkea_mnSH-HOZ_5Pkq0BbcOM1AaL0XCr_K2S_d_3cXJ21-s7rrJdX-fwtQhPRASloxV1mG4JjfmEh6D8mSF-EOA9vG2eCOeDUY3LNskGZFZVH-yEInqPWpBRLwQzxxWk2N4JcoT6q3rHT1wA4JaZcoLzPtkmv4QnvtOb1wiI2I-OwiH39YuiQfnukn7Ug0sa8L7zs9Abp2DBKO18yQ2qWC_ElZ2x-aDBkcyTd7DaKGpvO0AuVL5kDU3RExv9ayQizfRtyko-hyA3YAJS_eRDIG8LYhygACPUKoxXkeaCG43JLlmb8GCKnNIShk-NNl2OnO-ZV-w1KMCcDNTKbhKJdlXReivJ71_Jh4LHFwkRunjVW4wigLInGyoDwsntRnI_H2B96cG0k0DpVYInvIIQdqb_mzgkQhAjSJzAVwwiI2ZnCkBCY7P95mOdcivB0LP9iKKAgGGu6n-xUrexzh-HK1qMRf31AKQnYhF8aDIh3zCCknMJFVcQAKiABKglldS13ZXN0LTIwmwc.m3u8
