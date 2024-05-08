@@ -100,6 +100,9 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo= "https://scontent.fsjo6-1.fna.fbcdn.net/v/t39.30808-6/306079308_503474208448691_6484748601312239595_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Ttj5VEr13EMAX_1EEG7&_nc_ht=scontent.fsjo6-1.fna&oh=00_AfD7Kv-jxlGRTakJv18R584uIIhR-S5kBtqFnwvSIsS67A&oe=63E458E1" group-title="Costa Rica", TV Curré | HD | Costa Rica
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo= "https://th.bing.com/th/id/OIP.1UkHVBtM2ezUWdi7mIo_tQHaEc?rs=1&pid=ImgDetMain" group-title="Costa Rica", TeleSur |  HD | Costa Rica
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+
 #EXTINF:0 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="Internacional", Actualidad RT | HD | Internacional
 https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
 
@@ -151,7 +154,7 @@ https://videohls2.cosmovision.tv/hls/sd_720p2628kbs/index.m3u8
 #EXTINF:-1 tvg-logo= "https://static.wikia.nocookie.net/logopedia/images/9/99/Cosmovisi%C3%B3n_1998.png/revision/latest?cb=20210212135643&path-prefix=es" group-title="Colombia", Cosmovisión |  HD | Colombia
 https://nlb1-live.emitstream.com/hls/646wzsnqyforndavy6de/fragments/teve4/index.m3u8
 
-#EXTINF:-1 tvg-logo= "https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png/revision/latest?cb=20210308032446&path-prefix=es" group-title="México", TeleSur |  HD | Venezuela
+#EXTINF:-1 tvg-logo= "https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png/revision/latest?cb=20210308032446&path-prefix=es" group-title="Venezuela", TeleSur |  HD | Venezuela
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo= "https://alpavision.com.co/wp-content/uploads/2022/07/logo-alpa_Mesa-de-trabajo-1.png" group-title="Colombia", Alpasurfnet | HD | Colombia
